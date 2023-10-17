@@ -1,0 +1,139 @@
+------------------------- Misc
+Blizzard
+Chain Heal
+Fireball
+Flamestrike
+Frostfire Bolt
+Heal
+Hurricane
+Rain of Fire
+Shadow Bolt
+Whirlwind
+Wrath
+------------------------- Heroics
+Afterburn
+Arcane Missiles
+Arcane Stream
+Arcane Wave
+Bolthorn's Rune of Flame
+Carrion Beetles
+Cauterize
+Chain Lightning
+Crypt Scarabs
+Dark Mending
+Embrace of the Vampyr
+Ice Barb
+Firebomb
+Forked Lightning
+Harden Fists
+Healing Wave
+Heat
+Holy Nova
+Leeching Swarm
+Lightning Bolt
+Lightning Nova
+Lightning Ring
+Lightning Shock
+Lightning Tether
+Magic Burn
+Magic Reflection
+Njord's Rune of Protection
+Quake
+Renew Steel
+Return Flesh
+Runic Focus
+Scorch
+Slam
+Smash
+Spell Reflection
+Summon Air Elemental
+Summon Charged Sphere
+Summon Ghouls
+Summon Minions
+Summon Skeletons
+Temper
+Ticking Time Bomb
+Transformation
+Web Wrap
+------------------------- Ulduar
+Activate Construct
+Dark Volley
+Deafening Roar
+Flame Jets
+Flame Vents
+Frost Bomb
+Greater Heal
+Hand Pulse
+P3Wx2 Laser Barrage
+Runic Lightning
+Runic Mending
+Runic Shield
+Searing Flames
+Shock Blast
+Stone Shout
+Superheated Winds
+------------------------- ToC
+Arcane Blast
+Dark Vortex
+Flash Heal
+Flash of Light
+Frostbolt
+Hellfire
+Holy Light
+Lesser Healing Wave
+Light Vortex
+Nourish
+Penance
+Regrowth
+Staggering Stomp
+Starfire
+Submerge
+Sweep
+Tranquility
+Twin's Pact
+------------------------- ICC
+Adrenaline Rush
+Arcane Bolt
+Bloodbolt Whirl
+Bone Flurry
+Burning Pitch
+Chaos Bolt
+Concussive Shock
+Conjure Empowered Flame
+Conjure Flame
+Crypt Scarabs
+Deathchill Blast
+Deathchill Bolt
+Decimate
+Devour Humanoid
+Disrupting Shout
+Empowered Shadow Lance
+Enrage
+Focus Fire
+Frostblade
+Frost Blast
+Frost Breath
+Frozen Orb
+Gaseous Bloat
+Glacial Blast
+Ice Tomb
+Inhale Blight
+Infest
+Life Siphon
+Pain and Suffering
+Plague Blast
+Plague Stream
+Rapid Shot
+Shadow Lance
+Shockwave
+Siphon Essence
+Slime Spray
+Shock Vortex
+Soul Shriek
+Summon Drudge Ghouls
+Summon Shambling Horror
+Summon Ymirjar
+Unstable Experiment
+Volatile Experiment
+Volley
+Volatile Ooze Adhesive
