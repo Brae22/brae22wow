@@ -20,10 +20,12 @@ Carrion Beetles
 Cauterize
 Chain Lightning
 Crypt Scarabs
+Conversion Beam
 Dark Mending
 Embrace of the Vampyr
 Ice Barb
 Firebomb
+Frostblade
 Forked Lightning
 Harden Fists
 Healing Wave
@@ -55,6 +57,9 @@ Temper
 Ticking Time Bomb
 Transformation
 Web Wrap
+------------------------- VoA
+Frozen Orb
+Whiteout
 ------------------------- Ulduar
 Activate Construct
 Dark Volley
@@ -64,6 +69,7 @@ Flame Vents
 Frost Bomb
 Greater Heal
 Hand Pulse
+Holy Smite
 P3Wx2 Laser Barrage
 Runic Lightning
 Runic Mending
