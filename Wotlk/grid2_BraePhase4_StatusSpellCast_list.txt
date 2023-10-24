@@ -122,6 +122,7 @@ Frost Breath
 Frozen Orb
 Gaseous Bloat
 Glacial Blast
+Guzzle Potions
 Ice Tomb
 Inhale Blight
 Infest
