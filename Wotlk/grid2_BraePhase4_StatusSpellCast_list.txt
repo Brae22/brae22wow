@@ -107,6 +107,7 @@ Chaos Bolt
 Concussive Shock
 Conjure Empowered Flame
 Conjure Flame
+Create Concoction
 Crypt Scarabs
 Deathchill Blast
 Deathchill Bolt
