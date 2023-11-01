@@ -69,7 +69,6 @@ Flame Vents
 Frost Bomb
 Greater Heal
 Hand Pulse
-Holy Smite
 P3Wx2 Laser Barrage
 Runic Lightning
 Runic Mending
